@@ -1,0 +1,13 @@
+// debugger
+// const username = 5 > 2 ? 'Kartik' : 'ProCoder'
+
+// const gender = 'F'
+
+// debugger
+// const userMessage = `${gender.toLocaleLowerCase() === 'f' ? 'She' : 'He'} is a college student.`
+
+// console.log(userMessage);
+
+const result = null ? 'Kartik' : '' ? '12' : 0
+
+console.log(result);
