@@ -1,7 +1,7 @@
 'use strict'
 
-const username = 'Anurag'
-let userAge = 25
+const username = 'Kartik'
+let userAge = 21
 var a = 50
 
 // function add() {
